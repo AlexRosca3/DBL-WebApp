@@ -2,7 +2,7 @@ appdirs==1.4.3
 asgiref==3.2.7
 astroid==2.4.0
 bokeh==2.1.0rc1
-certifi==2020.4.5.1
+certifi==2022.12.7
 click==7.1.2
 colorama==0.4.3
 distlib==0.3.0
